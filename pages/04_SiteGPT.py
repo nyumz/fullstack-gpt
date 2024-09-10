@@ -126,7 +126,7 @@ st.markdown(
             
     Ask questions about the content of a website.
             
-    Start by writing the URL of the website on the sidebar.
+    Start by writing your own openai API key on the sidebar.
 """
 )
 
